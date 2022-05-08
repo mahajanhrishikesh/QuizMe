@@ -8,6 +8,7 @@ This website can accept text from the user and create fill in the blank & Wh-? t
   <li>Choose word to remove from the sentence</li>
   <li>Use word2vec or NER Knowledge Base for getting similar options.</li>
 </ol>
+
 ## Wh-? Question (What/Why/Where) Generation Steps:
 <ol>
   <li>Parts of Speech Identification</li>
